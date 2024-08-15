@@ -1,13 +1,20 @@
 ---
 ---
 
-@import 'main
-{%- if jekyll.environment == 'production' -%}
+@import "main
+{%- if jekyll.environment == "production" -%}
   .bundle
 {%- endif -%}
-';
+";
 
 /* append your custom style below */
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap");
+
+body {
+    font-family: "Apple SD Gothic Neo", "Pretendard", "Noto Sans KR", "Malgun Gothic", Helvetica, Arial, sans-serif;
+}
+
 
 .content {
     font-size: 1.2rem;
@@ -15,6 +22,10 @@
     section#access-lastmod {
         font-size: 1.08rem;
     }
+}
+
+header .post-desc, #search-results a, h5, h4, h3, h2, h1 {
+    font-family: "Apple SD Gothic Neo", "Pretendard", "Noto Sans KR", Lato, "Microsoft Yahei", sans-serif;
 }
 
 @media all and (max-width: 576px) {
