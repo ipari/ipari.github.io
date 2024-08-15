@@ -1,9 +1,9 @@
 ---
-title: 기획자가 로망 가득 담은 모바일 청첩장
+title: 로망 가득 모바일 청첩장 DIY
 date: 2024-08-15 12:43:00 +0900
 categories: [연재, 1인 개발 이야기]
 tags: [기획, 개발, 모바일, 결혼, 청첩장]
-description: 기존 모바일 청첩장에서 아쉬웠던 점을 개선하고, 결혼 후에는 "특별한" 페이지로 만들기.
+description: 결혼식 후에 더욱 특별한 모바일 청첩장
 image:
   path: /assets/img/2024/2024-marriage-thumbnail.jpg
   alt: 청첩장과 감사장
@@ -29,7 +29,7 @@ image:
 
 구글에 `js photo gallery` 를 검색하여 괜찮은 라이브러리를 찾았다. 그 중 [PhotoSwipe](https://photoswipe.com/)를 선택했다. 문서화가 가장 잘 되어있었기 때문이다. 섹션이 원하는 것을 쉽게 찾게끔 되어있었고 예제도 잘 되어있었기 때문이다. 새삼 잘 구성된 문서의 중요성을 느꼈다.
 
-![](/assets/img/2024/2024-marriage-gallery.png)
+![PhotoSwipe를 이용한 웨딩 갤러리](/assets/img/2024/2024-marriage-gallery.png)
 
 
 ### 참석여부
@@ -75,7 +75,7 @@ image:
 
  스튜디오 사진을 결혼식에서의 사진으로 교체했다."결혼합니다"를 "결혼했어요"로 수정하는데 마음이 몽글몽글했다. 초대 메시지는 감사 메시지로 수정했다.
 
-![모바일 청첩장 메시지](/assets/img/2024/2024-marriage-thumbnail.jpg)
+![모바일 청첩장 타이틀](/assets/img/2024/2024-marriage-thumbnail.jpg)
 ![모바일 청첩장 메시지](/assets/img/2024/2024-marriage-message.png)
 
 ### 하객분들의 사진으로
@@ -84,8 +84,7 @@ image:
 
 길안내는 더 이상 필요하지 않으므로 바로 지웠다. 계좌번호는 늦게 보내주시는 분들을 위해 한동안 유지하다 지웠다. 보정된 사진이 나온 후 사진도 그것으로 교체했다.
 
-![모바일 청첩장 메시지](/assets/img/2024/2024-marriage-content.jpg)
-
+![모바일 청첩장 콘텐츠](/assets/img/2024/2024-marriage-content.jpg)
 
 ## 마치며
 
