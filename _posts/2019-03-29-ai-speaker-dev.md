@@ -44,7 +44,7 @@ AI 스피커의 DIY 키트로는 구글의 [AIY Voice Kit](https://aiyprojects.w
 ## 질의응답
 
 ### 형태소 분석기
-대화를 하는데 대답이 늦으면 답답할 것이다. 때문에 챗봇의 형태소 분석기는 정확도 보다는 속도가 중요하다. KoNLPy 의 [형태소 분석기 비교](http://konlpy.org/en/latest/morph/#pos-tagging-with-konlpy)를 보면 Mecab이 가장 빠르고 Okt (구 Twitter)가 그 뒤를 잇는다. 여기에 카카오의 [Khaiii](https://github.com/kakao/khaiii) 도 고려해보았다.
+대화를 하는데 대답이 늦으면 답답할 것이다. 때문에 챗봇의 형태소 분석기는 정확도 보다는 속도가 중요하다. KoNLPy 의 [형태소 분석기 비교](https://konlpy.org/en/latest/morph/#pos-tagging-with-konlpy)를 보면 Mecab이 가장 빠르고 Okt (구 Twitter)가 그 뒤를 잇는다. 여기에 카카오의 [Khaiii](https://github.com/kakao/khaiii) 도 고려해보았다.
 
 [Khaiii](https://github.com/kakao/khaiii) 는 일단 설치가 불가능했다. 빌드에 CMake 3.10 이상을 요구하는데, 라즈베리파이에는 3.7 버전 밖에 없기 때문이다. Mecab은 테스트에 있던 그대로 속도와 성능 모두 훌륭했다. 하지만 단어를 기본형으로 만들어주는 기능이 없어서 아쉬웠다. [Okt](https://github.com/open-korean-text/open-korean-text) 는 상대적으로 속도는 느리지만 기본형으로 만들어주는 기능이 있어서 편리하다. 라즈베리파이 기준 최초 로딩에 30초 가까이 걸리기는 하지만, 그 이후에는 챗봇에 쓸만한 정도의 속도는 나오기에 결과적으로 Okt 를 사용하게 되었다.
 

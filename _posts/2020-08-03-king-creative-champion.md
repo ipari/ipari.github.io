@@ -6,7 +6,7 @@ tags: [게임디자인, GDC]
 description: King이 픽사의 브레인 트러스트와 같은 피드백 시스템을 만들기 위해 시도한 것들.
 ---
 
-이 발표에서는 King이 픽사의 [브레인 트러스트](http://www.lgeri.com/report/view.do?idx=19085)와 유사한 시스템인 크리에이티브 챔피언을 도입하려고 시도한 사례에 대해 설명한다. 크리에이티브 챔피언이란 프로덕션, 아트, 게임 디자인 등 각 분야에서 능력있고 경험많은 개인이 게임의 품질을 높힐 수 있도록 조언하는 시스템이다. 그 과정에서 무엇이 잘못되었고, 시스템을 안착시키기 위해 어떤 것을 고민했는지 이야기한다.
+이 발표에서는 King이 픽사의 [브레인 트러스트](https://www.lgeri.com/report/view.do?idx=19085)와 유사한 시스템인 크리에이티브 챔피언을 도입하려고 시도한 사례에 대해 설명한다. 크리에이티브 챔피언이란 프로덕션, 아트, 게임 디자인 등 각 분야에서 능력있고 경험많은 개인이 게임의 품질을 높힐 수 있도록 조언하는 시스템이다. 그 과정에서 무엇이 잘못되었고, 시스템을 안착시키기 위해 어떤 것을 고민했는지 이야기한다.
 
 - **제목** : Implementing Pixar's Brain Trust Model at King - How it all went wrong and how we may have finally got it right ― [Youtube](https://www.youtube.com/watch?v=h5H7cKzIY9U)
 - **발표자**
@@ -15,7 +15,7 @@ description: King이 픽사의 브레인 트러스트와 같은 피드백 시스
 
 
 ## 발단
-게임을 만드는 것은 어려운 일이며, 성공적인 게임을 만드는 것은 더욱 어려운 일이다. 성공적인 갓겜을 위해 다른 스튜디오의 프로세스를 조사하였다. 그 중 픽사의 [브레인 트러스트](http://www.lgeri.com/report/view.do?idx=19085)가 적합하다고 생각하여 시도해보았다.
+게임을 만드는 것은 어려운 일이며, 성공적인 게임을 만드는 것은 더욱 어려운 일이다. 성공적인 갓겜을 위해 다른 스튜디오의 프로세스를 조사하였다. 그 중 픽사의 [브레인 트러스트](https://www.lgeri.com/report/view.do?idx=19085)가 적합하다고 생각하여 시도해보았다.
 
 
 ## Creative Champions
