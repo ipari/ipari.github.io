@@ -19,6 +19,21 @@ h2, h3 {
     font-weight: bold;
 }
 
+ul.color-table {
+    display: inline-block;
+    border: 1px solid var(--main-border-color);
+    list-style: none;
+    padding: 0;
+    font-size: 0;
+}
+
+ul.color-table li {
+    display: inline-block;
+    width: 64px; 
+    height: 64px;
+    padding: 0;
+}
+
 
 .content {
     font-size: 1.15rem;
@@ -30,6 +45,11 @@ h2, h3 {
 
 header .post-desc, #search-results a, h5, h4, h3, h2, h1 {
     font-family: "Apple SD Gothic Neo", "Pretendard", "Noto Sans KR", Lato, "Microsoft Yahei", sans-serif;
+}
+
+.footnotes {
+    border-top: 1px solid var(--main-border-color);
+    padding-top: 16px;
 }
 
 @media all and (max-width: 576px) {
