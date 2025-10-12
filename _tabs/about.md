@@ -8,11 +8,11 @@ order: 4
 
 이광영 (李光英, Lee Kwangyoung)
 
-세상에 기여하는 서비스를 만드는 것을 사명으로 일합니다.
+세상을 이롭게 하는 서비스를 만드는 것을 사명으로 일합니다.
 
 게임, 에듀테크, 실버테크 업계에서 기획, 개발, 데이터 등 다양한 영역의 업무를 수행해왔습니다.
 
-현재 [Krafton](https://www.krafton.com/) 산하 [PUBG Studio](https://krafton.com/studios/pubg/) 에서 신규 게임 개발에 참여하고 있습니다.
+현재 [KRAFTON](https://www.krafton.com/) 산하 [PUBG STUDIOS](https://krafton.com/studios/pubg/) 에서 신규 게임 개발에 참여하고 있습니다.
 
 ## 블로그
 
