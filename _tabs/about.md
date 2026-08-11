@@ -4,18 +4,15 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## 글쓴이
+## 소개
 
-이광영 (李光英, Lee Kwangyoung)
+이광영(Lee Kwangyoung)
 
-세상을 이롭게 하는 서비스를 만드는 것을 사명으로 일합니다.
+게임, 에듀테크, 실버테크 분야에서 제품과 서비스를 만들어온 **프로덕트 빌더**입니다. 역할의 경계를 넘어 문제를 발견하고 정의하며, 실제 제품으로 해결합니다.
 
-게임, 에듀테크, 실버테크 업계에서 기획, 개발, 데이터 등 다양한 영역의 업무를 수행해왔습니다.
+이 블로그에는 커리어의 경험과, 개인적으로 보고 듣고 생각하며 만든 것들을 기록합니다.
 
-현재 [KRAFTON](https://www.krafton.com/) 산하 [PUBG STUDIOS](https://krafton.com/studios/pubg/) 에서 신규 게임 개발에 참여하고 있습니다.
+## 프로필
 
-## 블로그
-
-생각과 경험을 글로 정제하여 저 자신에게 도움이 되기 위해 글을 작성합니다.
-
-더불어 제 삽질이 누군가의 삽질에 도움이 되기를 희망합니다.
+- [Linkedin](https://www.linkedin.com/in/leekwangyoung)
+- [GitHub](https://github.com/ipari)
