@@ -52,6 +52,25 @@ header .post-desc, #search-results a, h5, h4, h3, h2, h1 {
     padding-top: 16px;
 }
 
+.external-link-with-favicon {
+    .external-link-favicon {
+        display: inline-block;
+        width: 1.05em;
+        height: 1.05em;
+        margin-right: 0.28em;
+        vertical-align: -0.12em;
+        object-fit: contain;
+    }
+
+    .external-link-favicon-fallback {
+        fill: none;
+        stroke: currentColor;
+        stroke-width: 2;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+    }
+}
+
 @media all and (max-width: 576px) {
     .content {
         font-size: 1.08rem;
